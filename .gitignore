@@ -194,3 +194,10 @@ cython_debug/
 .cursorindexingignore
 
 .DS_Store
+
+venv/
+__pycache__/
+*.pyc
+*.h5
+*.pt
+.env
